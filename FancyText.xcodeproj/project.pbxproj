@@ -17,6 +17,21 @@
 		CEECDB6528E1D3AD00F0AD2B /* FancyTextTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CEECDB6428E1D3AD00F0AD2B /* FancyTextTests.m */; };
 		CEECDB6F28E1D3AD00F0AD2B /* FancyTextUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = CEECDB6E28E1D3AD00F0AD2B /* FancyTextUITests.m */; };
 		CEECDB7128E1D3AD00F0AD2B /* FancyTextUITestsLaunchTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CEECDB7028E1D3AD00F0AD2B /* FancyTextUITestsLaunchTests.m */; };
+		CEECDB8228E27C2A00F0AD2B /* SugarstyleMillenial-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CEECDB7D28E27C2A00F0AD2B /* SugarstyleMillenial-Regular.ttf */; };
+		CEECDB8328E27C2A00F0AD2B /* SugarstyleMillenial-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CEECDB7D28E27C2A00F0AD2B /* SugarstyleMillenial-Regular.ttf */; };
+		CEECDB8428E27C2A00F0AD2B /* SugarstyleMillenial-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CEECDB7D28E27C2A00F0AD2B /* SugarstyleMillenial-Regular.ttf */; };
+		CEECDB8528E27C2A00F0AD2B /* Blacksword.otf in Resources */ = {isa = PBXBuildFile; fileRef = CEECDB7E28E27C2A00F0AD2B /* Blacksword.otf */; };
+		CEECDB8628E27C2A00F0AD2B /* Blacksword.otf in Resources */ = {isa = PBXBuildFile; fileRef = CEECDB7E28E27C2A00F0AD2B /* Blacksword.otf */; };
+		CEECDB8728E27C2A00F0AD2B /* Blacksword.otf in Resources */ = {isa = PBXBuildFile; fileRef = CEECDB7E28E27C2A00F0AD2B /* Blacksword.otf */; };
+		CEECDB8828E27C2A00F0AD2B /* LemonMilk.otf in Resources */ = {isa = PBXBuildFile; fileRef = CEECDB7F28E27C2A00F0AD2B /* LemonMilk.otf */; };
+		CEECDB8928E27C2A00F0AD2B /* LemonMilk.otf in Resources */ = {isa = PBXBuildFile; fileRef = CEECDB7F28E27C2A00F0AD2B /* LemonMilk.otf */; };
+		CEECDB8A28E27C2A00F0AD2B /* LemonMilk.otf in Resources */ = {isa = PBXBuildFile; fileRef = CEECDB7F28E27C2A00F0AD2B /* LemonMilk.otf */; };
+		CEECDB8B28E27C2A00F0AD2B /* Background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CEECDB8028E27C2A00F0AD2B /* Background.jpg */; };
+		CEECDB8C28E27C2A00F0AD2B /* Background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CEECDB8028E27C2A00F0AD2B /* Background.jpg */; };
+		CEECDB8D28E27C2A00F0AD2B /* Background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CEECDB8028E27C2A00F0AD2B /* Background.jpg */; };
+		CEECDB8E28E27C2A00F0AD2B /* Moon Flower.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CEECDB8128E27C2A00F0AD2B /* Moon Flower.ttf */; };
+		CEECDB8F28E27C2A00F0AD2B /* Moon Flower.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CEECDB8128E27C2A00F0AD2B /* Moon Flower.ttf */; };
+		CEECDB9028E27C2A00F0AD2B /* Moon Flower.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CEECDB8128E27C2A00F0AD2B /* Moon Flower.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +69,11 @@
 		CEECDB6A28E1D3AD00F0AD2B /* FancyTextUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FancyTextUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEECDB6E28E1D3AD00F0AD2B /* FancyTextUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FancyTextUITests.m; sourceTree = "<group>"; };
 		CEECDB7028E1D3AD00F0AD2B /* FancyTextUITestsLaunchTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FancyTextUITestsLaunchTests.m; sourceTree = "<group>"; };
+		CEECDB7D28E27C2A00F0AD2B /* SugarstyleMillenial-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SugarstyleMillenial-Regular.ttf"; sourceTree = "<group>"; };
+		CEECDB7E28E27C2A00F0AD2B /* Blacksword.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Blacksword.otf; sourceTree = "<group>"; };
+		CEECDB7F28E27C2A00F0AD2B /* LemonMilk.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = LemonMilk.otf; sourceTree = "<group>"; };
+		CEECDB8028E27C2A00F0AD2B /* Background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Background.jpg; sourceTree = "<group>"; };
+		CEECDB8128E27C2A00F0AD2B /* Moon Flower.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Moon Flower.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +135,11 @@
 				CEECDB5628E1D3AD00F0AD2B /* LaunchScreen.storyboard */,
 				CEECDB5928E1D3AD00F0AD2B /* Info.plist */,
 				CEECDB5A28E1D3AD00F0AD2B /* main.m */,
+				CEECDB8028E27C2A00F0AD2B /* Background.jpg */,
+				CEECDB7E28E27C2A00F0AD2B /* Blacksword.otf */,
+				CEECDB7F28E27C2A00F0AD2B /* LemonMilk.otf */,
+				CEECDB8128E27C2A00F0AD2B /* Moon Flower.ttf */,
+				CEECDB7D28E27C2A00F0AD2B /* SugarstyleMillenial-Regular.ttf */,
 			);
 			path = FancyText;
 			sourceTree = "<group>";
@@ -239,9 +264,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CEECDB8228E27C2A00F0AD2B /* SugarstyleMillenial-Regular.ttf in Resources */,
 				CEECDB5828E1D3AD00F0AD2B /* LaunchScreen.storyboard in Resources */,
+				CEECDB8828E27C2A00F0AD2B /* LemonMilk.otf in Resources */,
+				CEECDB8E28E27C2A00F0AD2B /* Moon Flower.ttf in Resources */,
+				CEECDB8B28E27C2A00F0AD2B /* Background.jpg in Resources */,
 				CEECDB5528E1D3AD00F0AD2B /* Assets.xcassets in Resources */,
 				CEECDB5328E1D3A800F0AD2B /* Main.storyboard in Resources */,
+				CEECDB8528E27C2A00F0AD2B /* Blacksword.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -249,6 +279,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CEECDB8F28E27C2A00F0AD2B /* Moon Flower.ttf in Resources */,
+				CEECDB8328E27C2A00F0AD2B /* SugarstyleMillenial-Regular.ttf in Resources */,
+				CEECDB8C28E27C2A00F0AD2B /* Background.jpg in Resources */,
+				CEECDB8628E27C2A00F0AD2B /* Blacksword.otf in Resources */,
+				CEECDB8928E27C2A00F0AD2B /* LemonMilk.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,6 +291,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CEECDB9028E27C2A00F0AD2B /* Moon Flower.ttf in Resources */,
+				CEECDB8428E27C2A00F0AD2B /* SugarstyleMillenial-Regular.ttf in Resources */,
+				CEECDB8D28E27C2A00F0AD2B /* Background.jpg in Resources */,
+				CEECDB8728E27C2A00F0AD2B /* Blacksword.otf in Resources */,
+				CEECDB8A28E27C2A00F0AD2B /* LemonMilk.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
